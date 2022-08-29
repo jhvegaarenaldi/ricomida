@@ -1,0 +1,81 @@
+*  {
+  margin: 0;
+  padding: 0;
+  font-family: "Cabin", sans-serif;
+}
+
+/* LOGO FONT SET */
+.logo {
+  font-family: "Lobster", cursive;
+  font-size: 2.3rem;
+}
+
+.pizza{
+  font-family: "Cabin", Bold;
+  font-size: 53px;
+}
+.minpor{
+  font-family: "Cabin", Bold;
+  font-size: 26x;
+}
+
+/* CARRUSEL SET */
+  .carousel-indicators {
+    top: 105%;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #000000;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+
+.recetarela{
+  font-family: "Cabin", Bold;
+  font-size: 43px;
+}
+
+/* INGREDIENTES y PREPARACION*/
+
+.textorecetaingre{
+  font-family: "Cabin", Regular;
+  font-size: 20px;
+}
+
+/* postres y plateada*/
+.panqueque , .tiramisu , .plateada{
+  font-family: "Cabin", Bold;
+  font-size: 20px;
+}
+
+/* NEWSLEYTER SET */
+
+.suscribete{
+  font-family: "Cabin",  Bold;
+  font-size: 53px;
+}
+
+mejoreceta{
+  font-family: "Lobster",  Regular;
+  font-size: 60px;
+}
+
+.newsletter{
+width: 150%;
+
+}
+
+.empezar{
+  font-family: "Cabin", Regular;
+}
+
+.tricomida{
+  font-family: "Lobster", Regular;
+  font-size: 1.20em; 
+}
+
+.footer{
+    font-family: "Lobster", cursive;
+}
